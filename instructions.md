@@ -11,5 +11,9 @@
 ## Добавление версионности
 
 ## Фиксация изменений
+    Save file
+    git add [name of file]
+    git commit -m "Name of changes"
+    
     git log --oneline
     git diff один параметр второй параметр 
