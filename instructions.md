@@ -1,0 +1,1 @@
+# Instructions for work with Git
